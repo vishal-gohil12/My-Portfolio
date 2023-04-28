@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+Router{
+  height: auto;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #f0f0f0;
+}
